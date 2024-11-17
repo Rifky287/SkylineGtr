@@ -1,0 +1,16 @@
+/* styles.css */
+*html
+.Container-body{
+  background-image: black;
+  margin: 0;
+  padding: 0;
+  width: 2000px;
+  height: 80vh;
+}
+
+.Container-footer{
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
